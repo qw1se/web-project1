@@ -9,3 +9,4 @@ Technologies Used HTML5 CSS3 JavaScript (ES6+)
 Design Design inspiration from https://www.figma.com/community/file/1479432337106303005/quote-machine-generator
 
 Author © Tulkiev Alen
+https://qw1se.github.io/web-project1
