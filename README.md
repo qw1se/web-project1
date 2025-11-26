@@ -10,3 +10,5 @@ Design Design inspiration from https://www.figma.com/community/file/147943233710
 
 Author © Tulkiev Alen
 https://qw1se.github.io/web-project1
+
+presentation   https://www.canva.com/design/DAG5Ni-zLyM/xGLCLJHXnvKNvuV0XyPiiw/edit?utm_content=DAG5Ni-zLyM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
