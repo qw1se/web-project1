@@ -47,11 +47,10 @@ Note: This is a static project — no backend or build step is required.
 
 ## Design & Inspiration
 Design inspired by the Figma community file:  
-https://www.canva.com/design/DAG6hBclfjk/NgSpSnO9w0JlgFbxVW58oA/edit?utm_content=DAG6hBclfjk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+https://www.figma.com/community/file/1479432337106303005/quote-machine-generator
 
 Project presentation (Canva):  
-https://www.canva.com/design/DAG5Ni-zLyM/xGLCLJHXnvKNvuV0XyPiiw/edit?utm_content=DAG5Ni-zLyM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAG6hBclfjk/NgSpSnO9w0JlgFbxVW58oA/edit?utm_content=DAG6hBclfjk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
 
